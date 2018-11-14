@@ -1,0 +1,6 @@
+C:\Users\celiknaz\Documents\GitHub\GOF Examples\Exercises\StructuralExample\bin\Debug\StructuralExample.exe.config
+C:\Users\celiknaz\Documents\GitHub\GOF Examples\Exercises\StructuralExample\bin\Debug\StructuralExample.exe
+C:\Users\celiknaz\Documents\GitHub\GOF Examples\Exercises\StructuralExample\bin\Debug\StructuralExample.pdb
+C:\Users\celiknaz\Documents\GitHub\GOF Examples\Exercises\StructuralExample\obj\Debug\StructuralExample.csprojResolveAssemblyReference.cache
+C:\Users\celiknaz\Documents\GitHub\GOF Examples\Exercises\StructuralExample\obj\Debug\StructuralExample.exe
+C:\Users\celiknaz\Documents\GitHub\GOF Examples\Exercises\StructuralExample\obj\Debug\StructuralExample.pdb
