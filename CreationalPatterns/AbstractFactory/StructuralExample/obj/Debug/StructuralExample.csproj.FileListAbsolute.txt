@@ -9,3 +9,4 @@ C:\Users\celiknaz\Documents\GitHub\GOFExamples\CreationalPatterns\AbstractFactor
 C:\Users\celiknaz\Documents\GitHub\GOFExamples\CreationalPatterns\AbstractFactory\StructuralExample\bin\Debug\StructuralExample.pdb
 C:\Users\celiknaz\Documents\GitHub\GOFExamples\CreationalPatterns\AbstractFactory\StructuralExample\obj\Debug\StructuralExample.exe
 C:\Users\celiknaz\Documents\GitHub\GOFExamples\CreationalPatterns\AbstractFactory\StructuralExample\obj\Debug\StructuralExample.pdb
+C:\Users\celiknaz\Documents\GitHub\GOFExamples\CreationalPatterns\AbstractFactory\StructuralExample\obj\Debug\StructuralExample.csprojResolveAssemblyReference.cache
